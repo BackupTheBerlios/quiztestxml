@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE quiztext SYSTEM "http://www.ccls-online.de/2003/quiztext-0.1.dtd"><quiz>
+	<questionset SID="ltestM0">
+		<creation_date>
+		2003-06-20
+		</creation_date>
+		<editor>
+			<name>
+			Irgend Einer
+			</name>
+			<email>
+			Irgend@irgend.de
+			</email>
+		</editor>
+		<title>
+		 Liebestest:(männlich)
+		</title>
+		<abstract>
+		Test mit ungewissen Ausgang und verschieden Antwortmöglichkeiten.
+		</abstract>
+		<quizentry>
+			<question>
+			Wann haben Sie eine Frau zu ersten mal geküsst ?
+			</question>
+			<test value="5">
+			zwischen 10 bis 15 Jahren
+			</test>
+			<test value="4">
+			zwischen 15 bis 25 Jahren
+			</test>
+			<test value="3">
+			zwischen 25 bis 35 Jahren
+			</test>
+			<test value="2">
+			zwischen 35 bis 45 Jahren
+			</test>
+			<test value="1">
+			noch nie
+			</test>
+			<hint>
+			 früh übt sich 5 Punkte
+			</hint>
+			<hint>
+			 besser spät als nie 4 Punkte
+			</hint>
+			<hint>
+			 naja  3 Punkte
+			</hint>
+			<hint>
+			 lol 2 Punkte
+			</hint>
+			<hint>
+			 naja das wird schon noch 1 Punkt
+			</hint>
+		</quizentry>
+		<quizentry>
+			<question>
+			Wieviele Frauen haben Sie schon gehabt ?
+			</question>
+			<test value="3">
+			 eine
+			</test>
+			<test value="4">
+			viele
+			</test>
+			<test value="1">
+			zähle ich nicht
+			</test>
+			<test value="2">
+			keine
+			</test>
+			<hint>
+			 immerhin 3 Punkte
+			</hint>
+			<hint>
+			 Loverboy 4 Punkte
+			</hint>
+			<hint>
+			 Hochstapler 1 Punkt
+			</hint>
+			<hint>
+			 2 Trostpunkte
+			</hint>
+		</quizentry>
+		<quizentry>
+			<question>
+			Welche Haarfarbe bevorzugen Sie bei Frauen ?
+			</question>
+			<test value="5">
+			Blond
+			</test>
+			<test value="5">
+			Schwarz
+			</test>
+			<test value="5">
+			Braun
+			</test>
+			<test value="5">
+			Bruinette
+			</test>
+			<test value="1">
+			mir egal
+			</test>
+			<hint>
+			 5 Punkte
+			</hint>
+			<hint>
+			 5 Punkte
+			</hint>
+			<hint>
+			 5 Punkte
+			</hint>
+			<hint>
+			 5 Punkte
+			</hint>
+			<hint>
+			 1Punkt
+			</hint>
+		</quizentry>
+		<quizentry>
+			<question>
+			Was gefällt ihnen an Frauen besonders ?
+			</question>
+			<test value="2">
+			Der Po
+			</test>
+			<test value="3">
+			Die Augen
+			</test>
+			<test value="4">
+			Die Brüste
+			</test>
+			<test value="1">
+			Der Charakter
+			</test>
+			<test value="5">
+			Alles
+			</test>
+			<hint>
+			 aha 2 Punkte
+			</hint>
+			<hint>
+			 was guckst du 3 Punkte
+			</hint>
+			<hint>
+			 oohh 4 Punkte
+			</hint>
+			<hint>
+			 welcher hihi 1 Punkt
+			</hint>
+			<hint>
+			 jupp 5 Punkte
+			</hint>
+		</quizentry>
+		<quizentry>
+			<question>
+			Wie macht man eine Frau sofort Glücklich ?
+			</question>
+			<test value="1">
+			Man schenkt Ihr Blumen
+			</test>
+			<test value="5">
+			Gibt ihr Zugang zum Konto
+			</test>
+			<test value="2">
+			Sagt ihr jeden Tag wie hübsch Sie ist
+			</test>
+			<test value="4">
+			Man Vergisst nie ihren Geburtstag
+			</test>
+			<test value="3">
+			Man geht mit ihr shoppen
+			</test>
+			<hint>
+			 1 Punkte
+			</hint>
+			<hint>
+			 5 Punkte
+			</hint>
+			<hint>
+			 2 Punkte
+			</hint>
+			<hint>
+			 4 Punkte
+			</hint>
+			<hint>
+			 3 Punkte
+			</hint>
+		</quizentry>
+                <result minimum="0" maximum="5">
+               Sie sind ein hoffnungsloser Fall.   
+                </result>
+                <result minimum="6" maximum="10">
+             Die Hoffnung stirbt zuletzt.
+                </result>
+                <result minimum="11" maximum="15">
+                 Naja man lernt halt nie aus.
+                </result>
+                <result minimum="16" maximum="20">
+                 Sie kennen sich mit Frauen gut aus.
+                </result>
+                <result minimum="21" maximum="25">
+                 Sie sind für Frauen eine gute Partie.
+                </result>
+	</questionset>
+	<questionset SID="ltestW0">
+		<creation_date>
+		2003-06-20
+		</creation_date>
+		<editor>
+			<name>
+			Irgend Einer
+			</name>
+			<email>
+			Irgend@irgend.de
+			</email>
+		</editor>
+		<title>
+		 Liebestest:(weiblich)
+		</title>
+		<abstract>
+		Test mit ungewissen Ausgang und verschieden Antwortmöglichkeiten.
+		</abstract>
+		<quizentry>
+			<question>
+			Wann haben Sie einen Mann zu ersten mal geküsst ?
+			</question>
+			<test value="5">
+			zwischen 10 bis 15 Jahren
+			</test>
+			<test value="4">
+			zwischen 15 bis 25 Jahren
+			</test>
+			<test value="3">
+			zwischen 25 bis 35 Jahren
+			</test>
+			<test value="2">
+			zwischen 35 bis 45 Jahren
+			</test>
+			<test value="1">
+			noch nie
+			</test>
+			<hint>
+			 früh übt sich 5 Punkte
+			</hint>
+			<hint>
+			 besser spät als nie 4 Punkte
+			</hint>
+			<hint>
+			 naja  3 Punkte
+			</hint>
+			<hint>
+			 lol 2 Punkte
+			</hint>
+			<hint>
+			 naja das wird schon noch 1 Punkt
+			</hint>
+		</quizentry>
+		<quizentry>
+			<question>
+			Wieviele Männer haben Sie schon gehabt ?
+			</question>
+			<test value="3">
+			einen
+			</test>
+			<test value="4">
+			viele
+			</test>
+			<test value="1">
+			zähle ich nicht
+			</test>
+			<test value="2">
+			keinen
+			</test>
+			<hint>
+			 immerhin 3 Punkte
+			</hint>
+			<hint>
+			 4 Punkte
+			</hint>
+			<hint>
+			naja 1 Punkt
+			</hint>
+			<hint>
+			 2 Trostpunkte
+			</hint>
+		</quizentry>
+		<quizentry>
+			<question>
+			Welche Haarfarbe bevorzugen Sie bei Männern ?
+			</question>
+			<test value="5">
+			Blond
+			</test>
+			<test value="5">
+			Schwarz
+			</test>
+			<test value="5">
+			Braun
+			</test>
+			<test value="5">
+			Bruinette
+			</test>
+			<test value="1">
+			mir egal
+			</test>
+			<hint>
+			 5 Punkte
+			</hint>
+			<hint>
+			 5 Punkte
+			</hint>
+			<hint>
+			 5 Punkte
+			</hint>
+			<hint>
+			 5 Punkte
+			</hint>
+			<hint>
+			 1Punkt
+			</hint>
+		</quizentry>
+		<quizentry>
+			<question>
+			Was gefällt ihnen an Männern besonders ?
+			</question>
+			<test value="4">
+			Der Po
+			</test>
+			<test value="3">
+			Die Augen
+			</test>
+			<test value="2">
+			Die Brustbehaarung
+			</test>
+			<test value="1">
+			Der Charakter
+			</test>
+			<test value="5">
+			Alles
+			</test>
+			<hint>
+			 aha 4 Punkte
+			</hint>
+			<hint>
+			 was guckst du 3 Punkte
+			</hint>
+			<hint>
+			 oohh 2 Punkte
+			</hint>
+			<hint>
+			 1 Punkt
+			</hint>
+			<hint>
+			 jupp 5 Punkte
+			</hint>
+		</quizentry>
+		<quizentry>
+			<question>
+			Wie macht man einen Mann sofort Glücklich ?
+			</question>
+			<test value="1">
+			Man holt Ihn sein Bier und die Hausschuhe
+			</test>
+			<test value="5">
+			Das Fussballspiel in Ruhe schauen lassen
+			</test>
+			<test value="2">
+			Seine Freunde zuhause Einladen
+			</test>
+			<test value="4">
+			Das essen ist fertig
+			</test>
+			<test value="3">
+			Ihn Ausschlafen lassen
+			</test>
+			<hint>
+			 1 Punkte
+			</hint>
+			<hint>
+			 5 Punkte
+			</hint>
+			<hint>
+			 2 Punkte
+			</hint>
+			<hint>
+			 4 Punkte
+			</hint>
+			<hint>
+			 3 Punkte
+			</hint>
+		</quizentry>
+                <result minimum="0" maximum="5">
+                Ohne Fleiss kein Preis. 
+                </result>
+                <result minimum="6" maximum="10">
+                 Die Hoffnung stirbt zuletzt. 
+                </result>
+                <result minimum="11" maximum="15">
+               Naja man lernt halt nie aus.
+                </result>
+                <result minimum="16" maximum="20">
+                 Sie bekommen jeden. 
+                </result>
+                <result minimum="21" maximum="25">
+                  Sie sind für Männer die Traumfrau.
+                </result>
+	</questionset>
+</quiz>

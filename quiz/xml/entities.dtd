@@ -1,0 +1,198 @@
+<!-- =============================================================== 
+	 
+	 Ab hier werden die am häufigsten verwendeten ENTITIES definiert,
+	 um sie in unserem QUIZ einsetzen zu können.	  
+	  		
+	  =============================================================== -->
+	
+<!ENTITY uuml "ü">
+
+<!ENTITY iexcl  "¡"><!-- umgekehrtes Ausrufezeichen -->
+
+<!ENTITY cent   "¢"><!-- Cent-Zeichen -->
+
+<!ENTITY pound  "£"><!-- Pfund-Zeichen -->
+
+<!ENTITY curren "¤"><!-- Währungs-Zeichen -->
+
+<!ENTITY yen    "¥"><!-- Yen-Zeichen -->
+
+<!ENTITY brvbar "¦"><!-- durchbrochener Strich -->
+
+<!ENTITY sect   "§"><!-- Paragraph-Zeichen -->
+
+<!ENTITY uml    "¨"><!-- Pünktchen oben -->
+
+<!ENTITY copy   "©"><!-- Copyright-Zeichen -->
+
+<!ENTITY ordf   "ª"><!-- Ordinal-Zeichen weiblich -->
+
+<!ENTITY laquo  "«"><!-- angewinkelte Anführungszeichen links -->
+
+<!ENTITY not    "¬"><!-- Verneinungs-Zeichen -->
+
+<!ENTITY shy    "­"><!-- kurzer Trennstrich -->
+
+<!ENTITY reg    "®"><!-- Registriermarke-Zeichen -->
+
+<!ENTITY macr   "¯"><!-- Überstrich -->
+
+<!ENTITY deg    "°"><!-- Grad-Zeichen -->
+
+<!ENTITY plusmn "±"><!-- Plusminus-Zeichen -->
+
+<!ENTITY sup2   "²"><!-- Hoch-2-Zeichen -->
+
+<!ENTITY sup3   "³"><!-- Hoch-3-Zeichen -->
+
+<!ENTITY acute  "´"><!-- Acute-Zeichen -->
+
+<!ENTITY micro  "µ"><!-- Mikro-Zeichen -->
+
+<!ENTITY para   "¶"><!-- Absatz-Zeichen -->
+
+<!ENTITY middot "·"><!-- Mittelpunkt -->
+
+<!ENTITY cedil  "¸"><!-- Häkchen unten -->
+
+<!ENTITY sup1 "¹"><!-- Hoch-1-Zeichen -->
+
+<!ENTITY ordm "º"><!-- Ordinal-Zeichen männlich -->
+
+<!ENTITY raquo "»"><!-- angewinkelte Anführungszeichen rechts -->
+
+<!ENTITY frac14 "¼"><!-- ein Viertel -->
+
+<!ENTITY frac12 "½"><!-- ein Halb -->
+
+<!ENTITY frac34 "¾"><!-- drei Viertel -->
+
+<!ENTITY iquest "¿"><!-- umgekehrtes Fragezeichen -->
+
+<!ENTITY Agrave "À"><!-- A mit Accent grave -->
+
+<!ENTITY Aacute "Á"><!-- A mit Accent acute -->
+
+<!ENTITY Acirc  "Â"><!-- A mit Circumflex -->
+
+<!ENTITY Atilde "Ã"><!-- A mit Tilde -->
+
+<!ENTITY Auml   "Ä"><!-- A Umlaut -->
+
+<!ENTITY Aring  "Å"><!-- A mit Ring -->
+
+<!ENTITY AElig  "Æ"><!-- A mit legiertem E -->
+
+<!ENTITY Ccedil "Ç"><!-- C mit Häkchen -->
+
+<!ENTITY Egrave "È"><!-- E mit Accent grave -->
+
+<!ENTITY Eacute "É"><!-- E mit Accent acute -->
+
+<!ENTITY Ecirc  "Ê"><!-- E mit Circumflex -->
+
+<!ENTITY Euml   "Ë"><!-- E Umlaut -->
+
+<!ENTITY Igrave "Ì"><!-- I mit Accent grave -->
+
+<!ENTITY Iacute "Í"><!-- I mit Accent acute -->
+
+<!ENTITY Icirc  "Î"><!-- I mit Circumflex -->
+
+<!ENTITY Iuml   "Ï"><!-- I Umlaut -->
+
+<!ENTITY ETH    "Ð"><!-- Eth (isländisch) -->
+
+<!ENTITY Ntilde "Ñ"><!-- N mit Tilde -->
+
+<!ENTITY Ograve "Ò"><!-- O mit Accent grave -->
+
+<!ENTITY Oacute "Ó"><!-- O mit Accent acute -->
+
+<!ENTITY Ocirc "Ô"><!-- O mit Circumflex -->
+
+<!ENTITY Otilde "Õ"><!-- O mit Tilde -->
+
+<!ENTITY Ouml "Ö"><!-- O Umlaut -->
+
+<!ENTITY times "×"><!-- Mal-Zeichen -->
+
+<!ENTITY Oslash "Ø"><!-- O mit Schrägstrich -->
+
+<!ENTITY Ugrave "Ù"><!-- U mit Accent grave -->
+
+<!ENTITY Uacute "Ú"><!-- U mit Accent acute -->
+
+<!ENTITY Ucirc "Û"><!-- U mit Circumflex -->
+
+<!ENTITY Uuml "Ü"><!-- U Umlaut -->
+
+<!ENTITY Yacute "Ý"><!-- Y mit Accent acute -->
+
+<!ENTITY THORN "Þ"><!-- THORN (isländisch) -->
+
+<!ENTITY szlig "ß"><!-- scharfes S -->
+
+<!ENTITY agrave "à"><!-- a mit Accent grave -->
+
+<!ENTITY aacute "á"><!-- a mit Accent acute -->
+
+<!ENTITY acirc "â"><!-- a mit Circumflex -->
+
+<!ENTITY atilde "ã"><!-- a mit Tilde -->
+
+<!ENTITY auml "ä"><!-- a Umlaut -->
+
+<!ENTITY aring "å"><!-- a mit Ring -->
+
+<!ENTITY aelig "æ"><!-- a mit legiertem e -->
+
+<!ENTITY ccedil "ç"><!-- c mit Häkchen -->
+
+<!ENTITY egrave "è"><!-- e mit Accent grave -->
+
+<!ENTITY eacute "é"><!-- e mit Accent acute -->
+
+<!ENTITY ecirc "ê"><!-- e mit Circumflex -->
+
+<!ENTITY euml "ë"><!-- e Umlaut -->
+
+<!ENTITY igrave "ì"><!-- i mit Accent grave -->
+
+<!ENTITY iacute "í"><!-- i mit Accent acute -->
+
+<!ENTITY icirc "î"><!-- i mit Circumflex -->
+
+<!ENTITY iuml "ï"><!-- i Umlaut -->
+
+<!ENTITY eth "ð"><!-- eth (isländisch) -->
+
+<!ENTITY ntilde "ñ"><!-- n mit Tilde -->
+
+<!ENTITY ograve "ò"><!-- o mit Accent grave -->
+
+<!ENTITY oacute "ó"><!-- o mit Accent acute -->
+
+<!ENTITY ocirc "ô"><!-- o mit Circumflex -->
+
+<!ENTITY otilde "õ"><!-- o mit Tilde -->
+
+<!ENTITY ouml "ö"><!-- o Umlaut -->
+
+<!ENTITY divide "÷"><!-- Divisions-Zeichen -->
+
+<!ENTITY oslash "ø"><!-- o mit Schrägstrich -->
+
+<!ENTITY ugrave "ù"><!-- u mit Accent grave -->
+
+<!ENTITY uacute "ú"><!-- u mit Accent acute -->
+
+<!ENTITY ucirc "û"><!-- u mit Circumflex -->
+
+<!ENTITY uuml "ü"><!-- u Umlaut -->
+
+<!ENTITY yacute "ý"><!-- y mit Accent acute -->
+
+<!ENTITY thorn "þ"><!-- thorn (isländisch) -->
+
+<!ENTITY yuml "ÿ"><!-- y Umlaut -->

@@ -1,0 +1,35 @@
+PHP Shelve 0.1
+
+simple persistence mechanism for php objects, inspired by python shelve module
+uses plain text files to save objects;
+
+To run the unit tests you'll need the phpunit library from http://phpunit.sourceforge.net/
+
+
+Usage example:
+
+class A
+{
+    var $string;
+    function A($string)
+    {
+	$this->string = $string;
+    }
+}
+
+
+$shelf = new Shelve("test_shelf");
+
+$shelf->put("a",new A("test string"));
+$shelf->close();
+
+$shelf = new Shelve("test_shelf");
+$a = $shelf->get("a");
+print_r($a);
+
+$shelf->del("a");
+$shelf->close();
+$shelf->destroy();
+
+--
+(C) 2002, Alexander Zhukov <alex@veresk.ru>

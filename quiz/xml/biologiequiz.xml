@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE quiztext SYSTEM "quiztext-0.1.dtd"><quiz>
+<questionset SID="Tiere0" source="http://encarta.msn.de">
+		<creation_date>
+		2003-07-02
+		</creation_date>
+		<editor>
+			<name>
+			Stefan Bischoff
+			</name>
+			<email>
+			giftnudel185@web.de
+			</email>
+		</editor>
+		<title>
+		 Biologiequiz
+		</title>
+                <abstract>Fragen aus dem Gebiet der Biologie.</abstract>
+                <quizentry>
+			<question>Aus welchen chemischen Stoff besteht das Schlangengift ?</question>
+                        <image ref="schlange1.jpg"></image>
+			<choice correct="true">komplexe Mischung aus Eiweißen</choice>
+			<choice correct="false">komplexe Mischung aus Magensäften</choice>
+			<choice correct="false">komplexe Mischung aus Speichelenzymen</choice>
+		</quizentry>
+                <quizentry>
+                        <question>Um welche Zeit begann die Einführung von Hauspferden ?</question>
+                        <image ref="pferd.jpg"></image>
+                        <choice correct="false">1000 Jahre v.Chr.</choice>
+                        <choice correct="true">2000 Jahre v.Chr.</choice>
+                        <choice correct="false">3000 Jahre v.Chr.</choice>
+                        <choice correct="false">4000 Jahre v.Chr.</choice>
+                </quizentry>
+                <quizentry>
+                        <question>Wieviele Arten von Skorpionen gibt es ?</question>
+                        <image ref="skorpion.jpg"></image>
+                         <choice correct="false">300 Arten</choice>
+                         <choice correct="false">400 Arten</choice>
+                         <choice correct="false">500 Arten</choice>
+                         <choice correct="false">600 Arten</choice>
+                         <choice correct="true">700 Arten</choice>
+                </quizentry>
+                <quizentry>
+                        <question>Wie zerkleinern Schildkröten ihre Nahrung ?</question>
+                        <image ref="schildkr.jpg"></image>
+                         <choice correct="false">Zähne</choice>
+                         <choice correct="true">Hornscheiden</choice>
+                         <choice correct="false"> Speichelenzyme</choice>
+                         <choice correct="false">keine Zerkleinerung</choice>
+               </quizentry>
+                <quizentry>
+                        <question>Von welcher Tiergattung stammen urgeschichtlich die Federn bei Vögeln ab ?</question>
+                         <image ref="voegel.jpg"></image>
+                        <choice correct="false">Meerestiere</choice>
+                         <choice correct="false">Säugetiere</choice>
+                         <choice correct="true">Reptilien</choice>
+                </quizentry>
+                 <quizentry>
+                        <question>Wieviele lebendige Junge bringt eine Anakonda zur Welt ?</question>
+                        <image ref="schlange2.jpg"></image>
+                         <choice correct="false">10 Junge</choice>
+                         <choice correct="false">20 Junge</choice>
+                         <choice correct="true">30 Junge</choice>
+                </quizentry>
+                <quizentry>
+                        <question>Wo ist der Lebensraum des Tiegers ?</question>
+                        <image ref="tiger.jpg"></image>
+                         <choice correct="true">Asien</choice>
+                         <choice correct="false">Australien</choice>
+                         <choice correct="false">Afrika</choice>
+                         <choice correct="false">Südamerika</choice>
+               </quizentry>
+                 <quizentry>
+                        <question>Wie schwer kann ein Löwe werden ?</question>
+                        <image ref="loewe1.jpg"></image> <image ref="loewe2.jpg"></image>
+                         <choice correct="false">50 bis 150 Kilogramm</choice>
+                         <choice correct="true">150 bis 250 Kilogramm</choice>
+                         <choice correct="false">250 bis 350 Kilogramm</choice>
+                </quizentry>
+                <quizentry>
+                        <question>In welchen Gebieten kommen Fleisch fressende Pflanzen vor ?</question>
+                        <image ref="flfrpfla1.jpg"></image>
+                        <image ref="flfrpfla2.jpg"></image>
+                         <choice correct="true">Sümpfen</choice>
+                         <choice correct="false">Wäldern</choice>
+                         <choice correct="false">Wiesen</choice>
+                </quizentry>
+                <quizentry>
+                        <question>Wieviele Arten von Insekten gibt es ( bis heute bekannt ) ?</question>
+                        <image ref="insekt1.jpg"></image><image ref="insekt2.gif"></image>
+                         <choice correct="true"> 1 Millionen</choice>
+                         <choice correct="false">2 Millionen</choice>
+                         <choice correct="false">3 Millionen</choice>
+                         <choice correct="false">4 Millionen</choice>
+               </quizentry>
+        </questionset>
+</quiz>     

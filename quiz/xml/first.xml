@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE project-listing SYSTEM "http://freshmeat.net/backend/fm-projects-0.1.dtd">
+
+<quiz>
+	<questionset>
+		<creation_date>
+		2003-01-24
+		</creation_date>
+		<editor>
+			<name>
+			Sebastian Knapp
+			</name>
+			<email>
+			giftnuss@netscape.net
+			</email>
+		</editor>
+		<editor>
+			<name>
+			Andre Krause
+			</name>
+			<email>
+			krausi@techie.com
+			</email>
+		</editor>
+		<title>
+		my first perl-quiz
+		</title>
+		<abstract>
+		Some questions and answers about perl.
+		</abstract>
+		<quizentry>
+			<question>
+			In which year was Perl 1.0 released?
+			</question>
+			<answer>
+			1987
+			</answer>
+			<fullanswer>
+			1987 October 18 Perl 1.0 is posted to the usenet group comp.sources.
+			</fullanswer>
+			<hint>
+			in this year Larry Wall was 33 years old.
+			</hint>
+		</quizentry>
+		<quizentry>
+			<question>
+			Who is the creator of Perl?
+			</question>
+			<choice correct="true">
+			Larry Wall
+			</choice>
+			<choice correct="false">
+			Bjarne Stroustrup
+			</choice>
+			<hint>
+			Perl was created by an american.
+			</hint>
+		</quizentry>
+		<quizentry>
+			<question>
+			Sort this operators after priority. Begin with the operator with highest precedence.
+			</question>
+			<sortitem position="4">
+			+
+			</sortitem>
+			<sortitem position="6">
+			xor
+			</sortitem>
+			<sortitem position="3">
+			=~
+			</sortitem>
+			<sortitem position="1">
+			->
+			</sortitem>
+			<sortitem position="5">
+			=
+			</sortitem>
+			<sortitem position="2">
+			++
+			</sortitem>
+			<hint>
+			perldoc perlop
+			</hint>
+		</quizentry>
+	</questionset>
+</quiz>

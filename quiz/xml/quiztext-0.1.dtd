@@ -1,0 +1,121 @@
+<!-- ============================================================== -->
+<!-- Quiz Text DTD ================================================ -->
+<!-- file: quiztech.DTD
+
+  This is quiztext 0.1
+
+		Copyright: 2003 by Andre Krause, Stephan Bischoff und 
+				   Sebastian Knapp
+
+		Author: Sebstian Knapp     
+        Revision:   2003/06/20/ Sebastian Knapp  
+
+     This DTD module is identified by the PUBLIC and SYSTEM identifiers:
+
+     PUBLIC "-//SRGL//ELEMENTS QUIZ-TEXT 0.1 APPLICATION//EN"
+     SYSTEM "http://www.ccls-online.de/2003/quiztext-0.1.dtd"
+
+     ============================================================== -->
+
+<!-- ==============================================================
+
+	 Hier werden sämtliche Tags aufgelistet, die ein gültiges quiztext
+      Dokument enthalten darf. Aussedem wird definiert welche Kindelemente
+     das jeweilige Element enthalten darf.
+     
+     	 keine Anzahl spezifiziert - muss einmal vorkommen
+     	 ? - kann ein oder keinmal vorkommen
+     	 + - muss ein oder mehrfach vorkommen
+     	 * - kann nullmal, einmal oder mehrfach vorkommen
+     	 
+     	 #PCDATA - Element enthält Daten
+     	 
+     	 , - liest sich wie UND 
+     	 | -   "     "    " ODER
+     	 
+     =============================================================== -->     	 
+
+<!ELEMENT quiz (questionset+)>
+	<!ELEMENT questionset (creation_date?,
+						   editor*,
+						   title,
+						   abstract?,
+						   quizentry+,
+						   resultset? ) >
+		<!ELEMENT creation_date (#PCDATA)>
+		<!ELEMENT editor (name,email?)>
+			<!ELEMENT name (#PCDATA)>
+			<!ELEMENT email (#PCDATA)>
+		<!ELEMENT title (#PCDATA)>
+		<!ELEMENT abstract (#PCDATA)>
+		<!ELEMENT quizentry ( question,hint*,image*,
+								( (answer,fullanswer?) |
+								 test+				|
+								 choice+			|
+								 sortitem+ ) )>
+			<!ELEMENT question (#PCDATA)>
+			<!ELEMENT hint (#PCDATA)>
+			<!ELEMENT image (#PCDATA)>
+			<!ELEMENT answer  (#PCDATA)>
+			<!ELEMENT fullanswer  (#PCDATA)>
+			<!ELEMENT test (#PCDATA)>
+			<!ELEMENT choice (#PCDATA)>
+			<!ELEMENT sortitem (#PCDATA)>
+		<!ELEMENT resultset (result+)>
+			<!ELEMENT result (#PCDATA)>
+			 
+
+<!-- ===============================================================
+
+	  Hier wird definiert welche Attribute ein Element enthält.
+	  
+	  		CDATA - alle Zeichen ausser '<', '>', '"' und '&' sind
+	  		         erlaubt.
+	  		         
+	  		         
+	  		#IMPLIED - Attribut ist optional.
+	  		#REQUIRED - Attribut ist nicht optional.
+	  		
+     =============================================================== -->
+
+<!-- source - eine Quellenangabe für das Element                    -->
+<!ATTLIST questionset
+	SID		ID		#REQUIRED
+	source   CDATA #IMPLIED
+	language CDATA #IMPLIED>
+
+<!ATTLIST quizentry
+	source CDATA #IMPLIED>
+			
+<!ATTLIST question 
+	source CDATA #IMPLIED>
+	
+<!ATTLIST answer
+	source CDATA #IMPLIED>
+	
+<!ATTLIST fullanswer
+	source CDATA #IMPLIED>
+	
+<!ATTLIST hint
+	source CDATA #IMPLIED>
+
+<!-- ref - Adresse der Bilddatei, enweder als absolute URL oder 
+			relativ zu einem Wurzelverzeichnis                      -->	
+<!ATTLIST image
+	source CDATA #IMPLIED
+	ref	 CDATA #REQUIRED>
+
+<!-- Werte sind vordefiniert. "false" wird als Standardwert gesetzt. -->
+<!ATTLIST choice
+	correct (true|false) "false">
+	
+<!ATTLIST sortitem
+	position CDATA #REQUIRED>
+	
+<!ATTLIST test
+	value CDATA #REQUIRED>
+	
+<!ATTLIST result
+	minimum CDATA #REQUIRED
+	maximum CDATA #REQUIRED>
+		

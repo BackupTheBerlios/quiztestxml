@@ -1,0 +1,24 @@
+
+**************
+* Onlinequiz *
+**************
+
+Version 0.1 -- Vorsicht ist noch beta.
+
+Dieses Onlinequiz basiert auf PHP und XML.
+
+Sie müssen für ihr Quiz eine XML Datei erstellen, Beispiele dafür finden sie
+im xml-Ordner. Die Dateien müssen in einen Ordner kopiert werden, der vom 
+Webserver zur Ausführung von PHP freigegenben ist.
+
+Im data/-Ordner werden die Sessiondaten gespeichert, deshalb muss der Webserver 
+darauf Schreibrecht haben.
+
+Wenn Sie einen neuen Stil erstellen möchten finden Sie weitere Informationen 
+unter doc/layout.htm .
+
+Die Startdatei ist frameset.php oder wenn man oder frau keine Frames mag start.php. 
+
+Viel Spaß beim quizen
+wünschen die Autoren
+

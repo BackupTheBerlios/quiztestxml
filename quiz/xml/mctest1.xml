@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE quiztext SYSTEM "http://www.ccls-online.de/2003/quiztext-0.1.dtd"><quiz>
+	<questionset language="de" SID="inti0">
+		<creation_date>
+		2003-06-20
+		</creation_date>
+		<editor>
+			<name>
+			Stefan Bischoff
+			</name>
+			<email>
+			giftnudel185@web.de
+			</email>
+		</editor>
+		<title>
+		Intelligenztest
+		</title>
+		<abstract>
+		Hier werden mal Fragen gestellt die Eigentlich etwas unlogisch klingen !!!
+		</abstract>
+		<quizentry>
+			<question>
+			 Rolf's Mutter hat 3 Kinder Tick, Trick ?
+			</question>
+			<choice correct="false">
+			 Heinz
+			</choice>
+			<choice correct="true">
+			 Rolf
+			</choice>
+			<choice correct="false">
+			 Karsten
+			</choice>
+			<choice correct="false">
+			 Dennis
+			</choice>
+			<choice correct="false">
+			 Doris
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Wer tritt uns ungefragt ins Gesicht ?
+			</question>
+			<choice correct="false">
+			 ein Kickboxer
+			</choice>
+			<choice correct="false">
+			 der Sonnenschein
+			</choice>
+			<choice correct="true">
+			 das Alter
+			</choice>
+			<choice correct="false">
+			 die Leute
+			</choice>
+			<choice correct="false">
+			 das Spiegelbild
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Was sitzt auf der Wiese,ist grün und macht "muh" ?
+			</question>
+			<choice correct="false">
+			 grüne Kuh
+			</choice>
+			<choice correct="true">
+			 Frosch mit Sprachfehler
+			</choice>
+			<choice correct="false">
+			 die Wiese
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Was ist das Gegenteil von Frühlingserwachen ?
+			</question>
+			<choice correct="false">
+			 im Winter einschlafen
+			</choice>
+			<choice correct="false">
+			 im Sommer einschlafen
+			</choice>
+			<choice correct="true">
+			 Spät rechts einschlafen
+			</choice>
+			<choice correct="false">
+			 im Herbst einschlafen
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Wie heißt der Schutzpatron der Glöckner ?
+			</question>
+			<choice correct="true">
+			 der heilige Bimbam
+			</choice>
+			<choice correct="false">
+			 Papst
+			</choice>
+			<choice correct="false">
+			 Gerhard Schröder
+			</choice>
+			<choice correct="false">
+			 Mönch
+			</choice>
+			<choice correct="false">
+			 Kirchenchor
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Ein deutscher Dichter benötigte Jahre dazu, Ihr nichtmal eine Sekunde. Was ist das?
+			</question>
+			<choice correct="false">
+			 Goethe
+			</choice>
+			<choice correct="false">
+			 Schiller
+			</choice>
+			<choice correct="true">
+			 Faust
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Wieviele Brötchen kann man auf nüchternen Magen essen ?
+			</question>
+			<choice correct="true">
+			 eins
+			</choice>
+			<choice correct="false">
+			 zwei
+			</choice>
+			<choice correct="false">
+			 drei
+			</choice>
+			<choice correct="false">
+			 vier
+			</choice>
+			<choice correct="false">
+			 fünf
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Wenn sie nur ein Streichholz haben und einen dunklen Raum betreten
+     was w&uuml;rden Sie zuerst anzünden ?
+			</question>
+			<choice correct="false">
+			 Öllampe
+			</choice>
+			<choice correct="false">
+			 Karbidlampe
+			</choice>
+			<choice correct="true">
+			 Streichholz
+			</choice>
+			<choice correct="false">
+			 Holzofen
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Wieviele Geburtstage hat ein normaler Mensch ?
+			</question>
+			<choice correct="false">
+			 viele
+			</choice>
+			<choice correct="false">
+			 ca. 20 bis 30
+			</choice>
+			<choice correct="false">
+			 ca. 40 bis 50
+			</choice>
+			<choice correct="false">
+			 ca. 60 bis 70
+			</choice>
+			<choice correct="true">
+			 einen
+			</choice>
+			<choice correct="false">
+			 keinen
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Warum kann es nie 2 Tage hintereinander regnen ?
+			</question>
+			<choice correct="false">
+			 wegen Niederschlag
+			</choice>
+			<choice correct="false">
+			 wegen der Sonne
+			</choice>
+			<choice correct="false">
+			 wegen dem Mond
+			</choice>
+			<choice correct="true">
+			 wegen der Nacht
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Wieviele Dreiecke sind in der Figur enthalten ?
+			</question>
+			<image ref="figur1.jpg" />
+			<answer>
+			 35
+			</answer>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Vor mir fährt die Polizei, hinter mir eine Kutsche.
+      Rechts von mir ein Flugzeug, links von mir ein Pferd.
+      Wo bin ich ?
+			</question>
+			<choice correct="false">
+			 auf einem Bauernhof
+			</choice>
+			<choice correct="false">
+			 im Strassenverkehr
+			</choice>
+			<choice correct="true">
+			 auf dem Kinderkarussell
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Je mehr es bekommt, desto hungriger wird es.
+      Hat es aber alles gefressen,so stirbt es. Was ist das ?
+			</question>
+			<choice correct="false">
+			 eine Neunköpfige Raupe
+			</choice>
+			<choice correct="false">
+			 ein Schwarm Heuschrecken
+			</choice>
+			<choice correct="false">
+			 Piranhas
+			</choice>
+			<choice correct="false">
+			 Aktenvernichter
+			</choice>
+            <choice correct="true">
+             Feuer 
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Was war am 06.12.1934 ?
+			</question>
+			<choice correct="false">
+			 Reichstagsbrand
+			</choice>
+			<choice correct="true">
+			 Nikolaus
+			</choice>
+			<choice correct="false">
+			 Bücherverbrennung
+			</choice>
+			<choice correct="false">
+			 Mauerfall
+			</choice>
+			<choice correct="false">
+			 Sonnenfinsternis
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Wieviele Tiere jeder Art hat Moses mit in die Arche genommen ?
+			</question>
+			<choice correct="false">
+			 2 Tiere
+			</choice>
+			<choice correct="false">
+			 3 Tiere
+			</choice>
+			<choice correct="false">
+			 4 Tiere
+			</choice>
+			<choice correct="false">
+			 1 Tier
+			</choice>
+			<choice correct="true">
+			 Kein Tier
+			</choice>
+		</quizentry>
+	</questionset>
+</quiz>

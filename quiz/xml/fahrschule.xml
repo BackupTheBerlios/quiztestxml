@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE quiztext SYSTEM "quiztext-0.1.dtd"><quiz>
+	<questionset SID="fahr0">
+		<creation_date>
+		2003-06-20
+		</creation_date>
+		<editor>
+			<name>
+			Stefan Bischoff
+			</name>
+			<email>
+			giftnudel185@web.de
+			</email>
+		</editor>
+		<title>
+		 Fahrschulquiz
+		</title>
+		<abstract>
+		</abstract>
+		<quizentry>
+			<question>
+			 Welche Besonderheiten ergeben sich beim Befahren von Alleen ?
+			</question>
+			<choice correct="false">
+			 Die Bäume verschaffen seitlichen Schutz.
+			</choice>
+			<choice correct="true">
+			 Kurven sind oft besonders eng und unübersichtlich.
+			</choice>
+			<choice correct="true">
+			 Geringe Breite der Fahrbahn und ihre gewölbte Form zwingen bei Gegenverkehr zubesonderer Vorsicht.
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Bei stockenden Verkehr müssen bestimmte Bereiche freigehalten werden.
+         Welche sind das ?
+			</question>
+			<choice correct="true">
+			 Kreuzungen
+			</choice>
+			<choice correct="false">
+			 Grundstückseinfahrten
+			</choice>
+                        <choice correct="true">
+			 Bahnübergänge
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Wann dürfen Sie auch am Tage Nebelscheinwerfer einschalten ?
+         Bei erheblicher Sichtbehinderung durch
+			</question>
+			<choice correct="true">
+			 Nebel oder Schneefall
+			</choice>
+                        <choice correct="true">
+			Regen
+			</choice>
+			<choice correct="false">
+			 Eis auf der Windschutzscheibe
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Was zeigt die sechseckige Plakette auf dem vorderen Nummernschild an ?
+     Den Termin für
+			</question>
+			<choice correct="false">
+			 die nächste Hauptuntersuchung
+			</choice>
+			<choice correct="false">
+			 die Fälligkeit der Kraftfahrzeugsteuer
+			</choice>
+                        <choice correct="true">
+                        die nächste Abgasuntersuchung
+                        </choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Was bedeutet dieser Warnhinweis ?
+     Auf einem so gekennzeichneten Beifahrerplatz mit betriebsbereitem Airbag
+			</question>
+            <image ref="airbag.jpg"></image>
+			<choice correct="false">
+			 darf ein Kindersitz entgegen der Fahrtrichtung angebracht werden
+			</choice>
+			<choice correct="false">
+			 muss der Kindersitz in der dargestellten Weise angebracht werden
+			</choice>
+                        <choice correct="true">
+                        darf ein Kindersitz nur in Fahrtrichtung angebracht werden  
+                        </choice>  
+		</quizentry>
+		<quizentry>
+			<question>
+			 Wie Verhalten Sie sich bei diesem Verkehrszeichen ?
+			</question>
+			<image ref="rechtsvorlinks.jpg"></image>
+			<choice correct="false">
+			 Nur den von rechts kommenden Verkehr beobachten
+			</choice>
+			<choice correct="true">
+			 Bremsbereit sein
+			</choice>
+			<choice correct="true">
+			 Geschwindigkeit vermindern
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Worauf weist dieses Verkehrszeichen hin ?
+			</question>
+			<image ref="Spielstrasse.JPG"></image>
+			<choice correct="true">
+			 Auf das Ende eines verkehrsberuhigten Bereichs
+			</choice>
+			<choice correct="false">
+			 Auf ein Verbot für Fußgänger und Krafwagen
+			</choice>
+		</quizentry>
+		<quizentry>
+			<question>
+			 Um welche Zeit endet das Fahrverbot an Sonn- und Feiertagen für LKW's ?
+			 </question>
+			 <answer>22 Uhr </answer>  
+			 <answer> 22 </answer>
+    		</quizentry>
+		<quizentry>
+			<question>
+			 Wie schnell darf ein Kraftfahrzeug mit Schneeketten höchstens fahren ( km/h ) ?
+			</question>		 	 
+                <answer>50 km/h</answer>
+			    <answer>50</answer>            
+		</quizentry>
+		<quizentry>
+			<question>
+			 In welchen Zeitabständen muß Ihr PKW ( kein Neufahrzeug, Ottomotor, ohne Kat)
+             zur Abgasuntersuchung ( Monate ) ?
+            </question>
+                <answer>12 Monate</answer>
+                <answer>12</answer>               
+            </quizentry>
+		<quizentry>
+			<question>
+            An Ihren Kraftfahrzeug ist ein Reifen defekt was müssen sie zuerst tun
+            und was zuletzt ? Bringen Sie diese Punkte in die richtige Reihenfolge.
+			</question>
+			            <sortitem position="4"> 
+                            Radmuttern lösen
+                        </sortitem>
+                        <sortitem position="1">          
+                            Warndreieck aufstellen
+                        </sortitem>
+                        <sortitem position="5">
+                            Ersatzrad festschrauben
+                        </sortitem>
+                        <sortitem position="3">                        
+                            Wagenheber aufstellen und hochkurbeln
+                        </sortitem>
+                        <sortitem position="6">                            
+                            Wagenheber herrunterlassen
+                        </sortitem>
+                        <sortitem position="2">
+                            Radmutter nur leicht lockern
+                        </sortitem>                     
+            </quizentry>
+		<quizentry>
+			<question>
+			    Sie kommen als erster an eine Unfallstelle
+                Orden Sie diese Schritte in die richtige Reihenfolge.
+             </question>
+                          <sortitem position="4">             
+                             Krankenwagen und Polizei rufen
+                          </sortitem>
+                          <sortitem position="1">                
+                             Warndreieck aufstellen ( Unfallstelle sichern )
+                          </sortitem>
+                          <sortitem position="2">                
+                             Nach den Verletzten sehen
+                          </sortitem>
+                          <sortitem position="3">                 
+                             Erste Hilfemasnahmen einleiten
+                          </sortitem>  
+             </quizentry>
+	</questionset>
+</quiz>
