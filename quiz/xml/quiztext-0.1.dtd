@@ -2,7 +2,7 @@
 <!-- Quiz Text DTD ================================================ -->
 <!-- file: quiztech.DTD
 
-  This is quiztext 0.1
+  This is quiztext 0.2
 
 		Copyright: 2003 by Andre Krause, Stephan Bischoff und 
 				   Sebastian Knapp
@@ -40,7 +40,7 @@
 						   editor*,
 						   title,
 						   abstract?,
-						   quizentry+,
+						   quizentry+ | survey+,
 						   resultset? ) >
 		<!ELEMENT creation_date (#PCDATA)>
 		<!ELEMENT editor (name,email?)>
@@ -53,6 +53,7 @@
 								 test+				|
 								 choice+			|
 								 sortitem+ ) )>
+                <!ELEMENT survey ( question,image*,answer+)>
 			<!ELEMENT question (#PCDATA)>
 			<!ELEMENT hint (#PCDATA)>
 			<!ELEMENT image (#PCDATA)>
@@ -86,7 +87,12 @@
 
 <!ATTLIST quizentry
 	source CDATA #IMPLIED>
-			
+
+<!ATTLIST survey
+        source CDATA #IMPIED
+        date CDATA #IMPLIED
+        person CDATA #IMPLIED>
+ 			
 <!ATTLIST question 
 	source CDATA #IMPLIED>
 	
